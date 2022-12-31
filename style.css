@@ -1,0 +1,22 @@
+canvas
+{
+border: 5px solid white;
+box-shadow: 5px 5px 5px gray;
+padding: 15px;
+margin: 10px;
+}
+.copy_right_footer
+{
+  
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+ 
+
+}
+  
+
